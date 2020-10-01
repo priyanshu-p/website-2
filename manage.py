@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+# Manage.py
+#!/usr/bin/env 
 import os
 import sys
 
